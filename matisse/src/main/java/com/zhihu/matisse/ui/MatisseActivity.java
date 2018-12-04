@@ -140,7 +140,7 @@ public class MatisseActivity extends AppCompatActivity implements
             mOriginalEnable = savedInstanceState.getBoolean(CHECK_STATE);
         }
         updateBottomToolbar();
-
+        //相册选择spinner
         mAlbumsAdapter = new AlbumsAdapter(this, null, false);
         mAlbumsSpinner = new AlbumsSpinner(this);
         mAlbumsSpinner.setOnItemSelectedListener(this);
