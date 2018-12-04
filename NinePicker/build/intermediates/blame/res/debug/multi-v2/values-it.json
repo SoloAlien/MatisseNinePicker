@@ -1,0 +1,77 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\code\\android\\MatisseNinePicker\\NinePicker\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-it\\values-it.xml",
+            "map": [
+                {
+                    "source": "D:\\code\\android\\MatisseNinePicker\\matisse\\build\\intermediates\\packaged_res\\debug\\values-it\\values-it.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,112,168,226,275,316,369,433,505,620,703,802,863,975,1037",
+                        "endColumns": "56,55,57,48,40,52,63,71,114,82,98,60,111,61,53",
+                        "endOffsets": "107,163,221,270,311,364,428,500,615,698,797,858,970,1032,1086"
+                    },
+                    "to": {
+                        "startLines": "19,21,22,23,24,25,26,27,29,30,31,32,33,34,36",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1866,1968,2024,2082,2131,2172,2225,2289,2517,2632,2715,2814,2875,2987,3132",
+                        "endColumns": "56,55,57,48,40,52,63,71,114,82,98,60,111,61,53",
+                        "endOffsets": "1918,2019,2077,2126,2167,2220,2284,2356,2627,2710,2809,2870,2982,3044,3181"
+                    }
+                },
+                {
+                    "source": "D:\\code\\android\\MatisseNinePicker\\NinePicker\\src\\main\\res\\values-it\\strings.xml",
+                    "from": {
+                        "startLines": "17,19,18",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "650,780,696",
+                        "endColumns": "44,155,82",
+                        "endOffsets": "690,931,774"
+                    },
+                    "to": {
+                        "startLines": "20,28,35",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "1923,2361,3049",
+                        "endColumns": "44,155,82",
+                        "endOffsets": "1963,2512,3127"
+                    }
+                },
+                {
+                    "source": "C:\\dev\\android\\gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\695d630d39009995fc75daba927e7e01\\res\\values-it\\values-it.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,214,314,423,507,616,741,818,894,975,1081,1189,1287,1391,1496,1603,1766,1866",
+                        "endColumns": "108,99,108,83,108,124,76,75,80,105,107,97,103,104,106,162,99,82",
+                        "endOffsets": "209,309,418,502,611,736,813,889,970,1076,1184,1282,1386,1491,1598,1761,1861,1944"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,37",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,214,314,423,507,616,741,818,894,975,1081,1189,1287,1391,1496,1603,1766,3186",
+                        "endColumns": "108,99,108,83,108,124,76,75,80,105,107,97,103,104,106,162,99,82",
+                        "endOffsets": "209,309,418,502,611,736,813,889,970,1076,1184,1282,1386,1491,1598,1761,1861,3264"
+                    }
+                },
+                {
+                    "source": "C:\\dev\\android\\gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\82a577b38baac8c9f0b6040747453a8a\\res\\values-it\\values-it.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "38",
+                        "startColumns": "4",
+                        "startOffsets": "3269",
+                        "endColumns": "100",
+                        "endOffsets": "3365"
+                    }
+                }
+            ]
+        }
+    ]
+}

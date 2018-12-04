@@ -1,0 +1,77 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\code\\android\\MatisseNinePicker\\NinePicker\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ko\\values-ko.xml",
+            "map": [
+                {
+                    "source": "D:\\code\\android\\MatisseNinePicker\\matisse\\build\\intermediates\\packaged_res\\debug\\values-ko\\values-ko.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,103,153,205,248,289,337,390,452,533,598,667,727,802,863",
+                        "endColumns": "47,49,51,42,40,47,52,61,80,64,68,59,74,60,50",
+                        "endOffsets": "98,148,200,243,284,332,385,447,528,593,662,722,797,858,909"
+                    },
+                    "to": {
+                        "startLines": "19,21,22,23,24,25,26,27,29,30,31,32,33,34,36",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1746,1839,1889,1941,1984,2025,2073,2126,2271,2352,2417,2486,2546,2621,2751",
+                        "endColumns": "47,49,51,42,40,47,52,61,80,64,68,59,74,60,50",
+                        "endOffsets": "1789,1884,1936,1979,2020,2068,2121,2183,2347,2412,2481,2541,2616,2677,2797"
+                    }
+                },
+                {
+                    "source": "D:\\code\\android\\MatisseNinePicker\\NinePicker\\src\\main\\res\\values-ko\\strings.xml",
+                    "from": {
+                        "startLines": "2,4,3",
+                        "startColumns": "2,2,2",
+                        "startOffsets": "55,167,99",
+                        "endColumns": "42,80,66",
+                        "endOffsets": "95,245,163"
+                    },
+                    "to": {
+                        "startLines": "20,28,35",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "1794,2188,2682",
+                        "endColumns": "44,82,68",
+                        "endOffsets": "1834,2266,2746"
+                    }
+                },
+                {
+                    "source": "C:\\dev\\android\\gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\82a577b38baac8c9f0b6040747453a8a\\res\\values-ko\\values-ko.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "38",
+                        "startColumns": "4",
+                        "startOffsets": "2880",
+                        "endColumns": "100",
+                        "endOffsets": "2976"
+                    }
+                },
+                {
+                    "source": "C:\\dev\\android\\gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\695d630d39009995fc75daba927e7e01\\res\\values-ko\\values-ko.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,200,294,396,478,576,682,761,837,917,1015,1110,1205,1305,1401,1500,1652,1746",
+                        "endColumns": "94,93,101,81,97,105,78,75,79,97,94,94,99,95,98,151,93,77",
+                        "endOffsets": "195,289,391,473,571,677,756,832,912,1010,1105,1200,1300,1396,1495,1647,1741,1819"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,37",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,200,294,396,478,576,682,761,837,917,1015,1110,1205,1305,1401,1500,1652,2802",
+                        "endColumns": "94,93,101,81,97,105,78,75,79,97,94,94,99,95,98,151,93,77",
+                        "endOffsets": "195,289,391,473,571,677,756,832,912,1010,1105,1200,1300,1396,1495,1647,1741,2875"
+                    }
+                }
+            ]
+        }
+    ]
+}
