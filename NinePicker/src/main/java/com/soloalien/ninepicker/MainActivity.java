@@ -86,6 +86,7 @@ public class MainActivity extends AppCompatActivity {
                                 public void onNext(Boolean aBoolean) {
                                     Matisse.from(MainActivity.this)
                                             .choose(MimeType.ofImage(), false)//只筛选图片
+                                            .theme(R.style.Matisse_Customer)
                                             .countable(true)//是否显示数字
                                             .capture(true)//是否可以拍照
                                             .captureStrategy(//拍照策略

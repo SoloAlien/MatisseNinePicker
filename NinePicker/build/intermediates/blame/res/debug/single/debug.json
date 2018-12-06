@@ -12,6 +12,10 @@
         "source": "C:\\dev\\android\\gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\695d630d39009995fc75daba927e7e01\\res\\drawable\\abc_vector_test.xml"
     },
     {
+        "merged": "D:\\code\\android\\MatisseNinePicker\\NinePicker\\build\\intermediates\\res\\merged\\debug\\color_customer_preview_bottom_toolbar_apply.xml.flat",
+        "source": "D:\\code\\android\\MatisseNinePicker\\matisse\\build\\intermediates\\packaged_res\\debug\\color\\customer_preview_bottom_toolbar_apply.xml"
+    },
+    {
         "merged": "D:\\code\\android\\MatisseNinePicker\\NinePicker\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
         "source": "C:\\dev\\android\\gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\695d630d39009995fc75daba927e7e01\\res\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
     },
@@ -676,6 +680,10 @@
         "source": "D:\\code\\android\\MatisseNinePicker\\matisse\\build\\intermediates\\packaged_res\\debug\\drawable-xxhdpi-v4\\ic_arrow_drop_down_white_24dp.png"
     },
     {
+        "merged": "D:\\code\\android\\MatisseNinePicker\\NinePicker\\build\\intermediates\\res\\merged\\debug\\color_customer_bottom_toolbar_preview.xml.flat",
+        "source": "D:\\code\\android\\MatisseNinePicker\\matisse\\build\\intermediates\\packaged_res\\debug\\color\\customer_bottom_toolbar_preview.xml"
+    },
+    {
         "merged": "D:\\code\\android\\MatisseNinePicker\\NinePicker\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
         "source": "C:\\dev\\android\\gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\695d630d39009995fc75daba927e7e01\\res\\drawable-xxhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
     },
@@ -854,6 +862,10 @@
     {
         "merged": "D:\\code\\android\\MatisseNinePicker\\NinePicker\\build\\intermediates\\res\\merged\\debug\\layout_frag_preview.xml.flat",
         "source": "D:\\code\\android\\MatisseNinePicker\\NinePicker\\src\\main\\res\\layout\\frag_preview.xml"
+    },
+    {
+        "merged": "D:\\code\\android\\MatisseNinePicker\\NinePicker\\build\\intermediates\\res\\merged\\debug\\color_customer_bottom_toolbar_apply.xml.flat",
+        "source": "D:\\code\\android\\MatisseNinePicker\\matisse\\build\\intermediates\\packaged_res\\debug\\color\\customer_bottom_toolbar_apply.xml"
     },
     {
         "merged": "D:\\code\\android\\MatisseNinePicker\\NinePicker\\build\\intermediates\\res\\merged\\debug\\layout_abc_alert_dialog_title_material.xml.flat",

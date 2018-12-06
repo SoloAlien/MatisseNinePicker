@@ -1,4 +1,4 @@
-#Tue Dec 04 15:13:34 CST 2018
-base.0=D\:\\code\\android\\MatisseNinePicker\\NinePicker\\build\\intermediates\\transforms\\dexMerger\\debug\\18
+#Tue Dec 04 17:04:32 CST 2018
+base.0=D\:\\code\\android\\MatisseNinePicker\\NinePicker\\build\\intermediates\\transforms\\dexMerger\\debug\\0
 path.0=classes.dex
 renamed.0=classes.dex
